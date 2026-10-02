@@ -43,4 +43,4 @@ Then open `dist/block-puzzle.sb3` in Scratch.
 - 1 point per block placed
 - 10 × lines² for clearing lines (1 line = 10, 2 = 40, 3 = 90, …)
 
-Made with TextToScratch.
+Made with TextToScratch. Join the [TextToScratch Discord](https://discord.gg/AnsrYzRXar) to share your own games.
