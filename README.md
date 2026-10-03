@@ -1,6 +1,6 @@
 # Block Puzzle
 
-A Block Blast-style puzzle game for Scratch, written in TypeScript with [TextToScratch](https://github.com/KashTheKing/TextToScratch).
+A Block Blast-style puzzle game for Scratch, written in TypeScript with [TextToScratch](https://github.com/TextToScratch/TextToScratch).
 
 Drag the three pieces from the tray onto the 8×8 board. Fill a whole row or column to clear it; clearing several at once scores a combo.
 The game ends when none of your pieces fit.
@@ -13,8 +13,8 @@ The game ends when none of your pieces fit.
 This project uses the TextToScratch compiler from a sibling folder:
 
 ```bash
-git clone https://github.com/KashTheKing/TextToScratch.git
-git clone https://github.com/KashTheKing/block-puzzle.git
+git clone https://github.com/TextToScratch/TextToScratch.git
+git clone https://github.com/TextToScratch/block-puzzle.git
 ```
 
 ```bash
