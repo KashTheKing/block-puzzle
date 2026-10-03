@@ -5,7 +5,7 @@ A Block Blast-style puzzle game for Scratch, written in TypeScript with [TextToS
 Drag the three pieces from the tray onto the 8×8 board. Fill a whole row or column to clear it; clearing several at once scores a combo.
 The game ends when none of your pieces fit.
 
-**Play it:** download [block-puzzle.sb3](https://kashtheking.com/text-to-scratch/examples/block-puzzle.sb3) and open it in Scratch
+**Play it:** download [block-puzzle.sb3](https://texttoscratch.github.io/examples/block-puzzle.sb3) and open it in Scratch
 (**File → Load from your computer**).
 
 ## Build
